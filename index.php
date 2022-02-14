@@ -11,6 +11,9 @@
 <body>
     <h1>Git remote</h1>
     <p>Lorem ipsum dolor sit amet.</p>
+    <ul>
+        <li></li>
+    </ul>
 </body>
 
 </html>
